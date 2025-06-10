@@ -3,4 +3,4 @@ def power(a,b):
     return 1
   return a * power(a,b-1)
 
-power(2,6)
+print(power(2,6))
