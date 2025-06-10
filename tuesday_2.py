@@ -4,6 +4,6 @@ def power(a,b):
   return a * power(a,b-1)
 
 
-a = int(input("Enter the number")
-b = int(input("Enter the number")
+a = int(input("Enter the number"))
+b = int(input("Enter the number"))
 print(power(a,b))
